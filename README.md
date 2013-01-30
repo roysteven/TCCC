@@ -1,5 +1,5 @@
 git init
-
+//add file README.md to repo
 git add README.md
 
 git commit -m "first commit"
