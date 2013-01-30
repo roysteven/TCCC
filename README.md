@@ -1,5 +1,6 @@
 git init
 git add README.md
 git commit -m "first commit"
-git remote add origin git@github.com:roysteven/TCCC.git
+//here
+git remote add origin git@github.com:roysteven/TCCC.git //not clear
 git push -u origin master
